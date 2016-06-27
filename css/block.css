@@ -1,0 +1,17 @@
+#fotosmenu h3,h4{
+    text-align: center;
+}
+#fotosmenu .contenedor{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#fotosmenu article{
+    margin: 15px;
+}
+
+#fotosmenu img{
+    width: 100%;
+    max-width: 280px;
+    
+}
