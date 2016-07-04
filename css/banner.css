@@ -13,6 +13,7 @@
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
     color: #fff;
+    text-shadow: 7px 7px 7px #aaa;
 }
 #banner h2{
     font-size: 28px;
